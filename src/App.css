@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 2%;
+  margin: 10px;
+  font-size: 10mm;
+  color: rgb(32, 124, 230);
+}
